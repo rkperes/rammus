@@ -1,2 +1,3 @@
 # Rammus.GG
-A league of legends search engine
+
+A blazingly fast league of legends search engine written in Go 🚀
